@@ -33,7 +33,8 @@ public class Main {
         }
         list.display();
         System.out.println();
-        list.bubblesort();
+      //  list.bubblesort();
+        list.reverselist();
         list.display();
     }
 }
